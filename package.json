@@ -22,7 +22,7 @@
   "bugs": "https://github.com/zoom/data-visualization-sample-app/issues",
   "dependencies": {
     "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
+    "debug": "~3.1.0",
     "dotenv": "^6.0.0",
     "express": "~4.16.0",
     "hbs": "~4.0.1",
